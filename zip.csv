@@ -1,1 +1,1 @@
-6.0,sudo git clone https://<rahul958>:<AgVa@1234>@github.com/rahul958/AgVa_6.0.git,sudo tree -L 1 /home/pi/AgVa_6.0/ | tail -n 1 >> text.csv,3,sudo rm -r AgVa_6.0
+6.0,sudo git clone https://rahul958:Agva1234@github.com/rahul958/AgVa_6.0.git,sudo tree -L 1 /home/pi/AgVa_6.0/ | tail -n 1 >> text.csv,3,sudo rm -r AgVa_6.0
